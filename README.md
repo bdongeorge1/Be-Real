@@ -4,8 +4,6 @@ Submitted by: **Brandon George**
 
 **Be Real** is an social media app that allows user to post and share content over the internet.
 
-Time spent: **10** hours spent in total
-
 <div>
     <a href="https://www.loom.com/share/9f4ca4aca910414896d4fe92203cb846">
     </a>
