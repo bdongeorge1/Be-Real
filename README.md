@@ -14,16 +14,12 @@ Time spent: **10** hours spent in total
     </a>
   </div>
 
-## Required Features
-
-The following **required** functionality is completed:
+## Features
 
 - [x] User can register a new account
 - [x] User can log in with newly created account
 - [x] App has a feed of posts when user logs in
 - [x] User can upload a new post which takes in a picture from photo library and a caption	
- 
-The following **optional** features are implemented:
 
 - [x] Users can pull to refresh their feed and see a loading indicator
 - [x] Users can infinite-scroll in their feed to see past the 10 most recent photos
@@ -34,7 +30,7 @@ The following **optional** features are implemented:
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Brandon George]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
