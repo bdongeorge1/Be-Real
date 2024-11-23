@@ -1,7 +1,5 @@
 # Project 5 - *Be Real*
 
-Submitted by: **Brandon George**
-
 **Be Real** is an social media app that allows user to post and share content over the internet.
 
 <div>
